@@ -16,10 +16,4 @@ checkpoints/*.pth
 checkpoints/*.ckpt
 !checkpoints/.gitkeep
 
-visualizations/*.png
-visualizations/*.gif
-visualizations/*.html
-visualizations/*.csv
-!visualizations/.gitkeep
-
 mnist_dataset/
